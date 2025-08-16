@@ -11,6 +11,7 @@
 ###
 
 <p align="left">I am an aspiring Software Development Engineer with a deep passion for Cyber Security. I am currently exploring the world of full-stack applications and ethical hacking. I just LOVE finding vulnerabilities before the bad guys do!</p>
+<p>P.S. I love cars!</p>
 
 ###
 
